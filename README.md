@@ -61,6 +61,7 @@ En la arquitectura **cliente-servidor**, por cada **cliente** que llega al **ser
 #Instancias
 
 Server
+
 ![image](https://user-images.githubusercontent.com/45807912/131283371-8b18654d-6658-4a45-98c3-801da128b2b3.png)
 
 Cliente 0
